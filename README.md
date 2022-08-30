@@ -1,3 +1,3 @@
 # RustWeb
 
-Baseline of a static locat webserver written in Rust
+Baseline of a static locale webserver written in Rust
